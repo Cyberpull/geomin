@@ -1,0 +1,37 @@
+[
+  {
+    "geonameId": 6255146,
+    "code": "AF",
+    "name": "Africa"
+  },
+  {
+    "geonameId": 6255147,
+    "code": "AS",
+    "name": "Asia"
+  },
+  {
+    "geonameId": 6255148,
+    "code": "EU",
+    "name": "Europe"
+  },
+  {
+    "geonameId": 6255149,
+    "code": "NA",
+    "name": "North America"
+  },
+  {
+    "geonameId": 6255151,
+    "code": "OC",
+    "name": "Oceania"
+  },
+  {
+    "geonameId": 6255150,
+    "code": "SA",
+    "name": "South America"
+  },
+  {
+    "geonameId": 6255152,
+    "code": "AN",
+    "name": "Antarctica"
+  }
+]
